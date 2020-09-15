@@ -1,10 +1,10 @@
 {
 
  "Account": {
-"Username": "username",
-     "Password": "password"
+"Username": "Apuxx",
+     "Password": "acit12345"
      },
- "Target Profit": "10000",
+ "Target Profit": "10",
  "Target Win": "500000",
  "Lose Target": "0",
  "Reset If Target Profit": "OFF",
@@ -13,8 +13,8 @@
  "Config": [{
 
      "Name Bet Set": "Mining",
-     "Base Bet": "0.01",
-     "Max Bet": "OFF",
+     "Base Bet": "0.0001",
+     "Max Bet": "25",
      "Chance": "49",
      "Random Chance": {
           "Toggle": "ON",
@@ -24,15 +24,15 @@
      "Bet": {
           "Bet": "Low",
           "Hi / Low": {
-              "Toggle": "ON",
+              "Toggle": "OFF",
               "If Lose": "3",
               "If Win": "2"
             }
         },
-     "If Win": "1.22",
-     "If Lose": "1.41",
+     "If Win": "1.15",
+     "If Lose": "1.2",
      "Reset If Win": "2",
-     "Reset If Profit": "0.00000001",
+     "Reset If Profit": "0.01",
      "Interval": "0"
      },{
 
